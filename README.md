@@ -1,3 +1,3 @@
 # Starter files
-### Build a responsive portfolio website
+### Create a responsive personal portfolio website using HTML, CSS & JavaScript
 ![Project humbnail](./thumbnail.png)
