@@ -5,4 +5,5 @@
 - Utilize grid to create fluid layouts
 - Utilize flexbox to align elements
 - Animate elements using JavaScript libraries
+
 ![Project humbnail](./thumbnail.png)
