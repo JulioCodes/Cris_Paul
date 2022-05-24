@@ -1,0 +1,104 @@
+/*! === FONTS === */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;700&display=swap");
+
+/*! === VARIABLES === */
+:root {
+  --light-clr: #fff;
+  --light-clr-2: #BED2C9;
+  --light-clr-3: #E1E7DD;
+  --dark-clr: #2e2e2e;
+  --body-font-clr: #bdbdbd;
+  --body-bg-clr: #222222;
+  --title-font: "Bebas Neue", cursive;
+  --body-font: "Poppins", sans-serif;
+}
+
+/*! === BASE === */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--body-font);
+  font-size: 1.4rem;
+  line-height: 1.5;
+  background-color: var(--body-bg-clr);
+  color: var(--body-font-clr);
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+img,
+picture {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button {
+  font: inherit;
+  background-color: transparent;
+  border: none;
+}
+
+/*! === SCROLLBAR === */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light-clr-2);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/*! === COMPONENTS === */
+
+/*! === HEADER === */
+
+/*! === MAIN === */
+
+/*! === SHOWCASE === */
+
+/*! === PORTFOLIO === */
+
+/* --- SWIPER --- */
+
+/*! === SERVICES === */
+
+/*! === ABOUT === */
+
+/*! === BLOG === */
+
+/*! === FOOTER === */
+
+/*! === MEDIA QUERIES === */
+/* --- Phones --- */
+@media (min-width: 31.25em) {}
+
+/* --- Tablets --- */
+@media (min-width: 48em) {}
+
+/* --- Laptops/Desktops --- */
+@media (min-width: 64em) {}
