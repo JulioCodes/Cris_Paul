@@ -1,6 +1,6 @@
 # Starter files
 ### Create a responsive personal portfolio website using HTML, CSS & JavaScript
-##### [Watch tutorial on YouTube]()
+##### [Watch tutorial on YouTube](https://youtu.be/E1ZjV2oVTY0)
 - Mobile first responsive design
 - Utilize grid to create fluid layouts
 - Utilize flexbox to align elements
